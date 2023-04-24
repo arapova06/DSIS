@@ -1,0 +1,131 @@
+@media (max-width: 1400px) {
+    .icons {
+        display: none;
+    }
+    .container {
+        width: 85%;
+    }
+    .container2 {
+        width: 85%;
+        flex-wrap: wrap;
+    }
+    .hOne {
+        font-size: 36px;
+    }
+    .hTwo {
+        font-size: 36px;
+    }
+    .sectionOone p {
+        font-size: 12px;
+    }
+    .sectionOone button{
+        width: 138px;
+        height: 33px;
+    }
+    .imagesOne img{
+        height: 281px;
+        width: 462px;
+        margin-top: 20px;
+    }
+    .container3 {
+        width: 85%;
+        flex-wrap: wrap;
+    }
+    .imageTwo img{
+        height: 372px;
+        width: 352px;
+    }
+    .container4 {
+        width: 85%;
+    }
+    .container5 {
+        width: 85%;
+    }
+    .firstblock h1{
+        font-weight: 350;
+        font-size: 20px;
+    }
+    .firstblock p{
+
+        font-size: 14px;
+        font-weight:250;
+    }
+    .firstblock button{
+        width: 119px;
+        height: 42px;
+    }
+    .secondblock h1{
+        font-weight: 400;
+        font-size: 20px;
+    }
+    .secondblock p{
+        font-size: 14px;
+        font-weight: 300;
+    }
+    .secondblock button{
+        width: 119px;
+        height: 42px;
+    }
+    .thirdblock h1{
+        font-weight: 400;
+        font-size: 20px;
+    }
+    .thirdblock p{
+        font-size: 14px;
+        font-weight: 300;
+    }
+    .thirdblock button{
+        width: 119px;
+        height: 42px;
+    }
+    .container6 {
+        width: 85%;
+    }
+}
+
+@media (max-width: 1400px){
+    .container{
+        width: 85%;
+    }
+    .container2{
+        width: 85%;
+    }
+    .hOne {
+        font-size: 26px;
+    }
+    .hTwo {
+        font-size: 26px;
+    }
+    .sectionOone p {
+        font-size: 12px;
+    }
+    .sectionOone button{
+        width: 138px;
+        height: 33px;
+    }
+    .imagesOne img{
+        height: 181px;
+        width: 362px;
+        margin-top: 20px;
+    }
+    .container3{
+        width: 85%;
+    }
+    .allBlocks{
+        flex-wrap: wrap;
+    }
+    .secondblock{
+        margin: 40px 0;
+    }
+    .container4{
+        width: 85%;
+    }
+    .container5{
+        width: 85%;
+    }
+    .container6{
+        width: 85%;
+    }
+}
+
+
